@@ -1,2 +1,1 @@
-# impact
-LO Trzebinia project
+# Cybereducation 2025 - Project IMPACT
